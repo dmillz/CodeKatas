@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mills.CodeKatas", "source\Mills.CodeKatas\Mills.CodeKatas.csproj", "{31294888-835B-4679-AC58-E95F9859D483}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mills.CodeKatas.Tests", "source\Mills.CodeKatas.Tests\Mills.CodeKatas.Tests.csproj", "{4F4366B4-0664-4C85-8261-C24B3E25F511}"
