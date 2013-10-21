@@ -1,0 +1,4 @@
+CodeKatas
+=========
+
+Practice makes perfect
