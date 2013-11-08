@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using Mills.CodeKatas.Anagrams;
@@ -60,5 +61,6 @@ namespace Mills.CodeKatas.Tests.Anagrams
             AnagramAnalyzer anagramAnalyzer = new AnagramAnalyzer();
             Assert.IsTrue(anagramAnalyzer.AreAnagrams("", ""));
         }
+
     }
 }

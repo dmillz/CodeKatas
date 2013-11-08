@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Anagrams\AnagramsTest.cs" />
+    <Compile Include="Anagrams\WordlistAnagramFinderTest.cs" />
     <Compile Include="FizzBuzz\FizzBuzzTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
