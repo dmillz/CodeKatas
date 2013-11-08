@@ -45,7 +45,12 @@
   <ItemGroup>
     <Compile Include="Anagrams\AnagramsTest.cs" />
     <Compile Include="Anagrams\WordlistAnagramFinderTest.cs" />
+    <Compile Include="CardGames\Core\DeckModel\StandardDeckBuilderTest.cs" />
+    <Compile Include="CardGames\Core\RankModel\RankTest.cs" />
     <Compile Include="FizzBuzz\FizzBuzzTest.cs" />
+    <Compile Include="CardGames\Core\CardModel\CardTest.cs" />
+    <Compile Include="CardGames\Poker\HandEvaluators\HighCardEvaluatorTest.cs" />
+    <Compile Include="CardGames\Core\SuitModel\SuitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -57,6 +62,7 @@
       <Name>Mills.CodeKatas</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

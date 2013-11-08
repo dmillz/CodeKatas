@@ -42,6 +42,16 @@
   <ItemGroup>
     <Compile Include="Anagrams\AnagramAnalyzer.cs" />
     <Compile Include="Anagrams\WordlistAnagramFinder.cs" />
+    <Compile Include="CardGames\Core\CardModel\Card.cs" />
+    <Compile Include="CardGames\Core\DeckModel\Deck.cs" />
+    <Compile Include="CardGames\Core\DeckModel\IDeckBuilder.cs" />
+    <Compile Include="CardGames\Core\DeckModel\StandardDeckBuilder.cs" />
+    <Compile Include="CardGames\Core\RankModel\Rank.cs" />
+    <Compile Include="CardGames\Core\RankModel\RankNames.cs" />
+    <Compile Include="CardGames\Core\RankModel\Ranks.cs" />
+    <Compile Include="CardGames\Core\SuitModel\Suit.cs" />
+    <Compile Include="CardGames\Core\SuitModel\SuitNames.cs" />
+    <Compile Include="CardGames\Core\SuitModel\Suits.cs" />
     <Compile Include="FizzBuzz\FizzBuzzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
