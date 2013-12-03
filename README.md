@@ -1,4 +1,4 @@
 CodeKatas
 =========
 
-Practice makes perfect
+Practice makes prefect
